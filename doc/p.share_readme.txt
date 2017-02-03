@@ -1,0 +1,7 @@
+share (in development)
+select any part of a maxpatch and send to other share peers on network. peers can immediately build any received patches
+
+to start: run the share.maxhelp, and follow instructions to “enable accessibility” for your max app. 
+
+2015, Michael Palumbo
+www.palumbomichael.com
